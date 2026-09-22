@@ -1,0 +1,8 @@
+
+1.Eclipse - we need for development 
+2.Docker Desktop - To containerize services
+3.Postgres DB - To Store the service data
+4.Grafana - visualize dashboard 
+5.Java 21/17
+6.Postman - API Testing
+7.Git - Version Control
